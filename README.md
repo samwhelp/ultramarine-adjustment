@@ -4,7 +4,7 @@
 
 | Link | GitHub |
 | ---- | ------ |
-| [Ultramarine Adjustment](https://samwhelp.github.io/fedora-adjustment/) | [GitHub](https://github.com/samwhelp/fedora-adjustment) |
+| [Ultramarine Adjustment](https://samwhelp.github.io/ultramarine-adjustment/) | [GitHub](https://github.com/samwhelp/ultramarine-adjustment) |
 
 
 
