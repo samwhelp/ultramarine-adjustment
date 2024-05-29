@@ -1,7 +1,7 @@
 ---
 title: Link
 nav_order: 9000
-has_children: true
+has_children: false
 ---
 
 
