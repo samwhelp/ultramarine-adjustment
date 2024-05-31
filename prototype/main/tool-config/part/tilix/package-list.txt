@@ -20,4 +20,4 @@ tilix
 ## ## Package / dconf
 ##
 
-dconf-cli
+dconf
