@@ -20,4 +20,4 @@ mate-terminal
 ## ## Package / dconf
 ##
 
-dconf-cli
+dconf
