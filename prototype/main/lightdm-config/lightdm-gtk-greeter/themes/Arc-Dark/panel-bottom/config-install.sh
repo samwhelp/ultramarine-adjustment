@@ -19,9 +19,9 @@ lightdm_config_install () {
 	echo
 
 
-	#lightdm_config_install_by_dir
+	lightdm_config_install_by_dir
 
-	lightdm_config_install_by_each_file
+	#lightdm_config_install_by_each_file
 
 	echo
 
