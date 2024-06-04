@@ -12,7 +12,7 @@
 ##
 
 lightdm
-lightdm-gtk-greeter
+lightdm-gtk
 
 
 
