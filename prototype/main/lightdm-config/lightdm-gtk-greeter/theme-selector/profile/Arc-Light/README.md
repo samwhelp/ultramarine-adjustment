@@ -1,5 +1,5 @@
 
-# lightdm / lightdm-gtk-greeter / skeleton
+# lightdm / lightdm-gtk-greeter / config / theme / Arc-Light
 
 
 ## Config File Path
@@ -22,6 +22,8 @@
 
 
 ## Fedora Package
+
+> For LightDM and LightDM Gtk Greeter
 
 | Fedora Package |
 | --- |

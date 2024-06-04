@@ -23,6 +23,8 @@
 
 ## Fedora Package
 
+> For LightDM and LightDM Gtk Greeter
+
 | Fedora Package |
 | --- |
 | [lightdm](https://packages.fedoraproject.org/pkgs/lightdm/lightdm/) |
