@@ -16,12 +16,12 @@
 
 
 
-## Ubuntu Package
+## Fedora Package
 
-| Ubuntu Package |
+| Fedora Package |
 | --- |
-| [xdg-utils](https://packages.ubuntu.com/noble/xdg-utils) |
-| [xdg-user-dirs](https://packages.ubuntu.com/noble/xdg-user-dirs) |
+| [xdg-utils](https://packages.fedoraproject.org/pkgs/xdg-utils/xdg-utils/) |
+| [xdg-user-dirs](https://packages.fedoraproject.org/pkgs/xdg-user-dirs/xdg-user-dirs/) |
 
 
 
