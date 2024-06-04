@@ -23,6 +23,8 @@
 | [/etc/lightdm/lightdm-gtk-greeter.conf](./asset/overlay/etc/lightdm/lightdm-gtk-greeter.conf) |
 
 
+
+
 ## Fedora Package
 
 > For LightDM and LightDM Gtk Greeter
@@ -31,6 +33,26 @@
 | --- |
 | [lightdm](https://packages.fedoraproject.org/pkgs/lightdm/lightdm/) |
 | [lightdm-gtk](https://packages.fedoraproject.org/pkgs/lightdm-gtk/lightdm-gtk/) |
+
+> For `theme-name =`
+
+| Fedora Package |
+| --- |
+| [arc-theme](https://packages.fedoraproject.org/pkgs/arc-theme/arc-theme/) |
+
+
+> For `icon-theme-name  =`
+
+| Fedora Package |
+| --- |
+| [papirus-icon-theme](https://packages.fedoraproject.org/pkgs/papirus-icon-theme/papirus-icon-theme/) |
+
+
+> For `cursor-theme-name =`
+
+| Fedora Package |
+| --- |
+| [breeze-cursor-theme](https://packages.fedoraproject.org/pkgs/plasma-breeze/breeze-cursor-theme/) |
 
 
 
