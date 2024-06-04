@@ -2,23 +2,17 @@
 # lightdm / lightdm-gtk-greeter / config / panel-position / Top
 
 
+
+
 ## Config File Path
-
-
-### lightdm
-
-| Config File Path |
-| --- |
-| [/etc/lightdm/lightdm.conf.d/50_basic.conf](./asset/overlay/etc/lightdm/lightdm.conf.d/50_basic.conf) |
-| [/etc/lightdm/lightdm.conf](./asset/overlay/etc/lightdm/lightdm.conf) |
-
 
 ### lightdm-gtk-greeter
 
 | Config File Path |
 | --- |
-| [/etc/lightdm/lightdm-gtk-greeter.conf.d/50_basic.conf](./asset/overlay/etc/lightdm/lightdm-gtk-greeter.conf.d/50_basic.conf) |
-| [/etc/lightdm/lightdm-gtk-greeter.conf](./asset/overlay/etc/lightdm/lightdm-gtk-greeter.conf) |
+| [/etc/lightdm/lightdm-gtk-greeter.conf.d/60_panel.conf](./asset/overlay/etc/lightdm/lightdm-gtk-greeter.conf.d/60_panel.conf) |
+
+
 
 
 ## Fedora Package

@@ -4,21 +4,13 @@
 
 ## Config File Path
 
-
-### lightdm
-
-| Config File Path |
-| --- |
-| [/etc/lightdm/lightdm.conf.d/50_basic.conf](./asset/overlay/etc/lightdm/lightdm.conf.d/50_basic.conf) |
-| [/etc/lightdm/lightdm.conf](./asset/overlay/etc/lightdm/lightdm.conf) |
-
-
 ### lightdm-gtk-greeter
 
 | Config File Path |
 | --- |
-| [/etc/lightdm/lightdm-gtk-greeter.conf.d/50_basic.conf](./asset/overlay/etc/lightdm/lightdm-gtk-greeter.conf.d/50_basic.conf) |
-| [/etc/lightdm/lightdm-gtk-greeter.conf](./asset/overlay/etc/lightdm/lightdm-gtk-greeter.conf) |
+| [/etc/lightdm/lightdm-gtk-greeter.conf.d/70_theme.conf](./asset/overlay/etc/lightdm/lightdm-gtk-greeter.conf.d/70_theme.conf) |
+
+
 
 
 ## Fedora Package
