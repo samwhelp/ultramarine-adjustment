@@ -28,14 +28,14 @@
 
 | Fedora Package |
 | --- |
-| [arc-theme](https://packages.fedoraproject.org/pkgs/arc-theme/arc-theme/) |
+| [numix-gtk-theme](https://packages.fedoraproject.org/pkgs/numix-gtk-theme/numix-gtk-theme/) |
 
 
 > For `icon-theme-name  =`
 
 | Fedora Package |
 | --- |
-| [papirus-icon-theme](https://packages.fedoraproject.org/pkgs/papirus-icon-theme/papirus-icon-theme/) |
+| [numix-icon-theme-circle](https://packages.fedoraproject.org/pkgs/numix-icon-theme-circle/numix-icon-theme-circle/) |
 
 
 > For `cursor-theme-name =`
