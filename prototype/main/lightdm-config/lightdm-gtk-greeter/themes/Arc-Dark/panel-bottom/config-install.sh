@@ -32,8 +32,8 @@ lightdm_config_install () {
 lightdm_config_install_by_dir () {
 
 	echo
-	echo "sudo mkdir -p /etc/lightdm"
-	sudo mkdir -p "/etc/lightdm"
+	echo "sudo install -dm755 /etc/lightdm"
+	sudo install -dm755 "/etc/lightdm"
 
 	echo
 	echo "sudo cp -rf ./asset/overlay/etc/lightdm/. /etc/lightdm"
@@ -45,22 +45,22 @@ lightdm_config_install_by_dir () {
 lightdm_config_install_by_each_file () {
 
 	echo
-	echo "sudo mkdir -p /etc/lightdm/lightdm-gtk-greeter.conf.d"
-	sudo mkdir -p "/etc/lightdm/lightdm-gtk-greeter.conf.d"
+	echo "sudo install -dm755 /etc/lightdm/lightdm-gtk-greeter.conf.d"
+	sudo install -dm755 "/etc/lightdm/lightdm-gtk-greeter.conf.d"
 
 	echo
-	echo "sudo install -Dm644 ./asset/overlay/etc/lightdm/lightdm-gtk-greeter.conf.d/50_basic.conf /etc/lightdm/lightdm-gtk-greeter.conf.d/50_basic.conf"
-	sudo install -Dm644 "./asset/overlay/etc/lightdm/lightdm-gtk-greeter.conf.d/50_basic.conf" "/etc/lightdm/lightdm-gtk-greeter.conf.d/50_basic.conf"
+	echo "sudo install -Dm644 ./asset/overlay/etc/lightdm/lightdm-gtk-greeter.conf.d/80_custom.conf /etc/lightdm/lightdm-gtk-greeter.conf.d/80_custom.conf"
+	sudo install -Dm644 "./asset/overlay/etc/lightdm/lightdm-gtk-greeter.conf.d/80_custom.conf" "/etc/lightdm/lightdm-gtk-greeter.conf.d/80_custom.conf"
 
 	return 0
 
 	echo
-	echo "sudo mkdir -p /etc/lightdm/lightdm.conf.d"
-	sudo mkdir -p "/etc/lightdm/lightdm.conf.d"
+	echo "sudo install -dm755 /etc/lightdm/lightdm.conf.d"
+	sudo install -dm755 "/etc/lightdm/lightdm.conf.d"
 
 	echo
-	echo "sudo install -Dm644 ./asset/overlay/etc/lightdm/lightdm.conf.d/50_basic.conf /etc/lightdm/lightdm.conf.d/50_basic.conf"
-	sudo install -Dm644 "./asset/overlay/etc/lightdm/lightdm.conf.d/50_basic.conf" "/etc/lightdm/lightdm.conf.d/50_basic.conf"
+	echo "sudo install -Dm644 ./asset/overlay/etc/lightdm/lightdm.conf.d/80_custom.conf /etc/lightdm/lightdm.conf.d/80_custom.conf"
+	sudo install -Dm644 "./asset/overlay/etc/lightdm/lightdm.conf.d/80_custom.conf" "/etc/lightdm/lightdm.conf.d/80_custom.conf"
 
 }
 
