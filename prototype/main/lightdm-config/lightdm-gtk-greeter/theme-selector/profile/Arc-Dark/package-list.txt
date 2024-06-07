@@ -1,14 +1,14 @@
 
 
 ##
-## # lightdm
+## # Lightdm
 ##
 
 
 
 
 ##
-## ## Package / Display Manager / lightdm
+## ## Package / Display Manager / Lightdm
 ##
 
 lightdm
@@ -18,7 +18,7 @@ lightdm-gtk
 
 
 ##
-## ## Package / Theme / arc
+## ## Package / Theme / Arc
 ##
 
 arc-theme
@@ -27,7 +27,7 @@ arc-theme
 
 
 ##
-## ## Package / Theme / breeze
+## ## Package / Theme / Papirus
 ##
 
 papirus-icon-theme
@@ -36,7 +36,7 @@ papirus-icon-theme
 
 
 ##
-## ## Package / Theme / breeze
+## ## Package / Theme / Breeze
 ##
 
 breeze-cursor-theme
