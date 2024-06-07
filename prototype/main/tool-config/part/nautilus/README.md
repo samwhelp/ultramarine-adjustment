@@ -14,9 +14,9 @@
 
 
 
-## Ubuntu Package
+## Fedora Package
 
-| Ubuntu Package |
+| Fedora Package |
 | --- |
 | [nautilus](https://packages.ubuntu.com/noble/nautilus) |
 

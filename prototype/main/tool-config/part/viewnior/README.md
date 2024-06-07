@@ -18,9 +18,9 @@
 
 
 
-## Ubuntu Package
+## Fedora Package
 
-| Ubuntu Package |
+| Fedora Package |
 | --- |
 | [viewnior](https://packages.ubuntu.com/noble/viewnior) |
 

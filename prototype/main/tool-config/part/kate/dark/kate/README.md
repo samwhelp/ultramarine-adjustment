@@ -22,9 +22,9 @@
 
 
 
-## Ubuntu Package
+## Fedora Package
 
-| Ubuntu Package |
+| Fedora Package |
 | --- |
 | [kate](https://packages.ubuntu.com/noble/kate) |
 

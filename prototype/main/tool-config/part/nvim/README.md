@@ -9,9 +9,9 @@
 | [~/.config/nvim/init.vim](./asset/overlay/etc/skel/.config/nvim/init.vim) |
 
 
-## Ubuntu Package
+## Fedora Package
 
-| Ubuntu Package |
+| Fedora Package |
 | --- |
 | [neovim](https://packages.ubuntu.com/noble/neovim) |
 

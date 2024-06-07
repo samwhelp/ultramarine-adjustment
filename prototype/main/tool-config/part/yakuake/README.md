@@ -14,9 +14,9 @@
 
 
 
-## Ubuntu Package
+## Fedora Package
 
-| Ubuntu Package |
+| Fedora Package |
 | --- |
 | [yakuake](https://packages.ubuntu.com/noble/yakuake) |
 

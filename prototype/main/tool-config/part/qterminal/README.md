@@ -9,9 +9,9 @@
 | [~/.config/qterminal.org/qterminal.ini](./asset/overlay/etc/skel/.config/qterminal.org/qterminal.ini) |
 
 
-## Ubuntu Package
+## Fedora Package
 
-| Ubuntu Package |
+| Fedora Package |
 | --- |
 | [qterminal](https://packages.ubuntu.com/noble/qterminal) |
 

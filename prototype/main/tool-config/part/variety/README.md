@@ -15,9 +15,9 @@ variety.desktop) |
 
 
 
-## Ubuntu Package
+## Fedora Package
 
-| Ubuntu Package |
+| Fedora Package |
 | --- |
 | [variety](https://packages.ubuntu.com/noble/variety) |
 

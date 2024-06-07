@@ -14,9 +14,9 @@
 
 
 
-## Ubuntu Package
+## Fedora Package
 
-| Ubuntu Package |
+| Fedora Package |
 | --- |
 | [nemo](https://packages.ubuntu.com/noble/nemo) |
 

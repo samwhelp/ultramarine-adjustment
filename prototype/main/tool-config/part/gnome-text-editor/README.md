@@ -14,9 +14,9 @@
 
 
 
-## Ubuntu Package
+## Fedora Package
 
-| Ubuntu Package |
+| Fedora Package |
 | --- |
 | [gnome-text-editor](https://packages.ubuntu.com/noble/gnome-text-editor) |
 

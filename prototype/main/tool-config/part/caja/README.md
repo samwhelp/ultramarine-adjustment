@@ -14,9 +14,9 @@
 
 
 
-## Ubuntu Package
+## Fedora Package
 
-| Ubuntu Package |
+| Fedora Package |
 | --- |
 | [caja](https://packages.ubuntu.com/noble/caja) |
 

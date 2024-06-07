@@ -2,9 +2,9 @@
 # Mate-Terminal
 
 
-## Ubuntu Package
+## Fedora Package
 
-| Ubuntu Package |
+| Fedora Package |
 | --- |
 | [mate-terminal](https://packages.ubuntu.com/noble/mate-terminal) |
 

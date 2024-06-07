@@ -11,9 +11,9 @@
 | [~/.config/Thunar/accels.scm](./asset/overlay/etc/skel/.config/Thunar/accels.scm) |
 
 
-## Ubuntu Package
+## Fedora Package
 
-| Ubuntu Package |
+| Fedora Package |
 | --- |
 | [thunar](https://packages.ubuntu.com/noble/thunar) |
 

@@ -9,9 +9,9 @@
 | [~/.config/xfce4/xfconf/xfce-perchannel-xml/xfce4-terminal.xml](./asset/overlay/etc/skel/.config/xfce4/xfconf/xfce-perchannel-xml/xfce4-terminal.xml) |
 
 
-## Ubuntu Package
+## Fedora Package
 
-| Ubuntu Package |
+| Fedora Package |
 | --- |
 | [xfce4-terminal](https://packages.ubuntu.com/noble/xfce4-terminal) |
 

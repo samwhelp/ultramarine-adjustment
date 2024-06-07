@@ -15,9 +15,9 @@
 
 
 
-## Ubuntu Package
+## Fedora Package
 
-| Ubuntu Package |
+| Fedora Package |
 | --- |
 | [gedit](https://packages.ubuntu.com/noble/gedit) |
 

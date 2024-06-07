@@ -2,9 +2,9 @@
 # Tilix
 
 
-## Ubuntu Package
+## Fedora Package
 
-| Ubuntu Package |
+| Fedora Package |
 | --- |
 | [tilix](https://packages.ubuntu.com/noble/tilix) |
 

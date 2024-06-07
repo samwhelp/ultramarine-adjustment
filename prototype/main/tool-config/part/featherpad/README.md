@@ -13,9 +13,9 @@
 
 
 
-## Ubuntu Package
+## Fedora Package
 
-| Ubuntu Package |
+| Fedora Package |
 | --- |
 | [featherpad](https://packages.ubuntu.com/noble/featherpad) |
 

@@ -21,9 +21,9 @@
 
 
 
-## Ubuntu Package
+## Fedora Package
 
-| Ubuntu Package |
+| Fedora Package |
 | --- |
 | [gwenview](https://packages.ubuntu.com/noble/gwenview) |
 

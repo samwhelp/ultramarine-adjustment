@@ -9,9 +9,9 @@
 | [~/.vim/vimrc](./asset/overlay/etc/skel/.vim/vimrc) |
 
 
-## Ubuntu Package
+## Fedora Package
 
-| Ubuntu Package |
+| Fedora Package |
 | --- |
 | [vim](https://packages.ubuntu.com/noble/vim) |
 

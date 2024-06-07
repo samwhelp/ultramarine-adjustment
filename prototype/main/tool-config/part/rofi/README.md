@@ -12,9 +12,9 @@
 
 
 
-## Ubuntu Package
+## Fedora Package
 
-| Ubuntu Package |
+| Fedora Package |
 | --- |
 | [rofi](https://packages.ubuntu.com/noble/rofi) |
 

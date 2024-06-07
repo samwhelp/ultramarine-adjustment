@@ -9,9 +9,9 @@
 | [~/.config/micro/settings.json](./asset/overlay/etc/skel/.config/micro/settings.json) |
 
 
-## Ubuntu Package
+## Fedora Package
 
-| Ubuntu Package |
+| Fedora Package |
 | --- |
 | [micro](https://packages.ubuntu.com/noble/micro) |
 

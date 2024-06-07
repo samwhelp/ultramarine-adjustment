@@ -23,9 +23,9 @@
 
 
 
-## Ubuntu Package
+## Fedora Package
 
-| Ubuntu Package |
+| Fedora Package |
 | --- |
 | [dolphin](https://packages.ubuntu.com/noble/dolphin) |
 

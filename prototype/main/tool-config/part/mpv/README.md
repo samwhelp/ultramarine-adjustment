@@ -11,9 +11,9 @@
 
 
 
-## Ubuntu Package
+## Fedora Package
 
-| Ubuntu Package |
+| Fedora Package |
 | --- |
 | [mpv](https://packages.ubuntu.com/noble/mpv) |
 

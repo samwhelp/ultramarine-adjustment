@@ -2,9 +2,9 @@
 # Gnome-Terminal
 
 
-## Ubuntu Package
+## Fedora Package
 
-| Ubuntu Package |
+| Fedora Package |
 | --- |
 | [gnome-terminal](https://packages.ubuntu.com/noble/gnome-terminal) |
 

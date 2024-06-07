@@ -11,9 +11,9 @@
 
 
 
-## Ubuntu Package
+## Fedora Package
 
-| Ubuntu Package |
+| Fedora Package |
 | --- |
 | [sakura](https://packages.ubuntu.com/noble/sakura) |
 

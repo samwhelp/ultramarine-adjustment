@@ -3,9 +3,9 @@
 # Mousepad
 
 
-## Ubuntu Package
+## Fedora Package
 
-| Ubuntu Package |
+| Fedora Package |
 | --- |
 | [mousepad](https://packages.ubuntu.com/noble/mousepad) |
 

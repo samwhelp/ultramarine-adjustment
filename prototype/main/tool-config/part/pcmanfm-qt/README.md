@@ -13,9 +13,9 @@
 | [~/.config/pcmanfm-qt/lxqt/settings.conf](./asset/overlay/etc/skel/.config/pcmanfm-qt/lxqt/settings.conf) |
 
 
-## Ubuntu Package
+## Fedora Package
 
-| Ubuntu Package |
+| Fedora Package |
 | --- |
 | [pcmanfm-qt](https://packages.ubuntu.com/noble/pcmanfm-qt) |
 
