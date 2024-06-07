@@ -27,7 +27,7 @@
 
 | Fedora Package |
 | --- |
-| [dolphin](https://packages.ubuntu.com/noble/dolphin) |
+| [dolphin](https://packages.fedoraproject.org/pkgs/dolphin) |
 
 
 

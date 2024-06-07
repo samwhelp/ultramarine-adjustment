@@ -22,7 +22,7 @@
 
 | Fedora Package |
 | --- |
-| [viewnior](https://packages.ubuntu.com/noble/viewnior) |
+| [viewnior](https://packages.fedoraproject.org/pkgs/viewnior) |
 
 
 

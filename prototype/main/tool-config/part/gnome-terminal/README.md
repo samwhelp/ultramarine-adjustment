@@ -6,7 +6,7 @@
 
 | Fedora Package |
 | --- |
-| [gnome-terminal](https://packages.ubuntu.com/noble/gnome-terminal) |
+| [gnome-terminal](https://packages.fedoraproject.org/pkgs/gnome-terminal) |
 
 
 

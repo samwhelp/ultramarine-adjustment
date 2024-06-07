@@ -17,7 +17,7 @@
 
 | Fedora Package |
 | --- |
-| [featherpad](https://packages.ubuntu.com/noble/featherpad) |
+| [featherpad](https://packages.fedoraproject.org/pkgs/featherpad) |
 
 
 

@@ -18,7 +18,7 @@
 
 | Fedora Package |
 | --- |
-| [caja](https://packages.ubuntu.com/noble/caja) |
+| [caja](https://packages.fedoraproject.org/pkgs/caja) |
 
 
 

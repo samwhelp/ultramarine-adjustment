@@ -13,7 +13,7 @@
 
 | Fedora Package |
 | --- |
-| [micro](https://packages.ubuntu.com/noble/micro) |
+| [micro](https://packages.fedoraproject.org/pkgs/micro) |
 
 
 

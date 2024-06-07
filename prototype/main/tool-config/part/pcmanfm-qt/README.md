@@ -17,7 +17,7 @@
 
 | Fedora Package |
 | --- |
-| [pcmanfm-qt](https://packages.ubuntu.com/noble/pcmanfm-qt) |
+| [pcmanfm-qt](https://packages.fedoraproject.org/pkgs/pcmanfm-qt) |
 
 
 

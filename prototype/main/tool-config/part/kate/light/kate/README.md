@@ -33,7 +33,7 @@
 
 | Fedora Package |
 | --- |
-| [kate](https://packages.ubuntu.com/noble/kate) |
+| [kate](https://packages.fedoraproject.org/pkgs/kate) |
 
 
 

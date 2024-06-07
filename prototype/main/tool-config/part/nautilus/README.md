@@ -18,7 +18,7 @@
 
 | Fedora Package |
 | --- |
-| [nautilus](https://packages.ubuntu.com/noble/nautilus) |
+| [nautilus](https://packages.fedoraproject.org/pkgs/nautilus) |
 
 
 

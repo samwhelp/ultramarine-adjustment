@@ -16,7 +16,7 @@
 
 | Fedora Package |
 | --- |
-| [rofi](https://packages.ubuntu.com/noble/rofi) |
+| [rofi](https://packages.fedoraproject.org/pkgs/rofi) |
 
 
 

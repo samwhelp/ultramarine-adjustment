@@ -18,7 +18,7 @@
 
 | Fedora Package |
 | --- |
-| [geany](https://packages.ubuntu.com/noble/geany) |
+| [geany](https://packages.fedoraproject.org/pkgs/geany) |
 
 
 

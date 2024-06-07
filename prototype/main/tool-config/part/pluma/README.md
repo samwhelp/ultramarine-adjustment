@@ -19,7 +19,7 @@
 
 | Fedora Package |
 | --- |
-| [pluma](https://packages.ubuntu.com/noble/pluma) |
+| [pluma](https://packages.fedoraproject.org/pkgs/pluma) |
 
 
 

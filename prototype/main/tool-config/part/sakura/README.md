@@ -15,7 +15,7 @@
 
 | Fedora Package |
 | --- |
-| [sakura](https://packages.ubuntu.com/noble/sakura) |
+| [sakura](https://packages.fedoraproject.org/pkgs/sakura) |
 
 
 

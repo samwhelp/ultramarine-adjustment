@@ -18,7 +18,7 @@
 
 | Fedora Package |
 | --- |
-| [yakuake](https://packages.ubuntu.com/noble/yakuake) |
+| [yakuake](https://packages.fedoraproject.org/pkgs/yakuake) |
 
 
 

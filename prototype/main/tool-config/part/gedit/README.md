@@ -19,7 +19,7 @@
 
 | Fedora Package |
 | --- |
-| [gedit](https://packages.ubuntu.com/noble/gedit) |
+| [gedit](https://packages.fedoraproject.org/pkgs/gedit) |
 
 
 

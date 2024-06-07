@@ -28,7 +28,7 @@
 
 | Fedora Package |
 | --- |
-| [konsole](https://packages.ubuntu.com/noble/konsole) |
+| [konsole](https://packages.fedoraproject.org/pkgs/konsole) |
 
 
 

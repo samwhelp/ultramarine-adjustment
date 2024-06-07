@@ -6,7 +6,7 @@
 
 | Fedora Package |
 | --- |
-| [tilix](https://packages.ubuntu.com/noble/tilix) |
+| [tilix](https://packages.fedoraproject.org/pkgs/tilix) |
 
 
 

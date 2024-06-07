@@ -19,7 +19,7 @@ variety.desktop) |
 
 | Fedora Package |
 | --- |
-| [variety](https://packages.ubuntu.com/noble/variety) |
+| [variety](https://packages.fedoraproject.org/pkgs/variety) |
 
 
 

@@ -18,7 +18,7 @@
 
 | Fedora Package |
 | --- |
-| [krunner](https://packages.ubuntu.com/noble/krunner) |
+| [krunner](https://packages.fedoraproject.org/pkgs/krunner) |
 
 
 

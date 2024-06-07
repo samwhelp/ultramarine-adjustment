@@ -13,7 +13,7 @@
 
 | Fedora Package |
 | --- |
-| [vim](https://packages.ubuntu.com/noble/vim) |
+| [vim](https://packages.fedoraproject.org/pkgs/vim) |
 
 
 

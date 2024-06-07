@@ -18,7 +18,7 @@
 
 | Fedora Package |
 | --- |
-| [nemo](https://packages.ubuntu.com/noble/nemo) |
+| [nemo](https://packages.fedoraproject.org/pkgs/nemo) |
 
 
 

@@ -7,7 +7,7 @@
 
 | Fedora Package |
 | --- |
-| [mousepad](https://packages.ubuntu.com/noble/mousepad) |
+| [mousepad](https://packages.fedoraproject.org/pkgs/mousepad) |
 
 
 

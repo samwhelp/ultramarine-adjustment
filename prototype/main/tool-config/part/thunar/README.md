@@ -15,7 +15,7 @@
 
 | Fedora Package |
 | --- |
-| [thunar](https://packages.ubuntu.com/noble/thunar) |
+| [thunar](https://packages.fedoraproject.org/pkgs/thunar) |
 
 
 

@@ -15,7 +15,7 @@
 
 | Fedora Package |
 | --- |
-| [mpv](https://packages.ubuntu.com/noble/mpv) |
+| [mpv](https://packages.fedoraproject.org/pkgs/mpv) |
 
 
 

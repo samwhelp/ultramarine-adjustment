@@ -26,7 +26,7 @@
 
 | Fedora Package |
 | --- |
-| [kwrite](https://packages.ubuntu.com/noble/kwrite) |
+| [kwrite](https://packages.fedoraproject.org/pkgs/kwrite) |
 
 
 
