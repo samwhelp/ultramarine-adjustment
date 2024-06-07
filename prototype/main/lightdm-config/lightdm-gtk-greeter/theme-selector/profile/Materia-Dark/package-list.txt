@@ -1,0 +1,42 @@
+
+
+##
+## # Lightdm
+##
+
+
+
+
+##
+## ## Package / Display Manager / Lightdm
+##
+
+lightdm
+lightdm-gtk
+
+
+
+
+##
+## ## Package / Theme / Materia
+##
+
+materia-gtk-theme
+
+
+
+
+##
+## ## Package / Theme / Papirus
+##
+
+papirus-icon-theme
+
+
+
+
+##
+## ## Package / Theme / Breeze
+##
+
+breeze-cursor-theme
