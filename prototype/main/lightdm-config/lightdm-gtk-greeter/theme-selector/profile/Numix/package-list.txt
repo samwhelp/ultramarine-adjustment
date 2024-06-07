@@ -1,14 +1,14 @@
 
 
 ##
-## # lightdm
+## # Lightdm
 ##
 
 
 
 
 ##
-## ## Package / Display Manager / lightdm
+## ## Package / Display Manager / Lightdm
 ##
 
 lightdm
@@ -18,25 +18,19 @@ lightdm-gtk
 
 
 ##
-## ## Package / Theme / arc
+## ## Package / Theme / Numix
 ##
 
-arc-theme
-
-
-
-
-##
-## ## Package / Theme / breeze
-##
-
-papirus-icon-theme
+numix-gtk-theme
+numix-icon-theme
+numix-icon-theme-circle
+numix-icon-theme-square
 
 
 
 
 ##
-## ## Package / Theme / breeze
+## ## Package / Theme / Breeze
 ##
 
 breeze-cursor-theme
