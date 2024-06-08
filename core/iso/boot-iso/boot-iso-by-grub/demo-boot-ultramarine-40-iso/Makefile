@@ -54,7 +54,7 @@ help:
 
 
 prepare:
-	sudo pacman -Sy --needed curl
+	sudo dnf install wget -y
 .PHONY: prepare
 
 
