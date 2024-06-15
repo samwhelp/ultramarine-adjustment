@@ -26,6 +26,11 @@
 | [Ultramarine Gnome Shell Adjustment](https://samwhelp.github.io/ultramarine-gnome-shell-adjustment/) | [GitHub](https://github.com/samwhelp/ultramarine-gnome-shell-adjustment) |
 
 
+| Ultramarine Adjustment | GitHub |
+| ---------------------- | ------ |
+| [Ultramarine Wayfire Adjustment](https://samwhelp.github.io/ultramarine-wayfire-adjustment/) | [GitHub](https://github.com/samwhelp/ultramarine-wayfire-adjustment) |
+
+
 
 
 ## Ultramarine Adjustment Script
