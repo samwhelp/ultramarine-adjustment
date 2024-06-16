@@ -29,6 +29,7 @@
 | Ultramarine Adjustment | GitHub |
 | ---------------------- | ------ |
 | [Ultramarine Wayfire Adjustment](https://samwhelp.github.io/ultramarine-wayfire-adjustment/) | [GitHub](https://github.com/samwhelp/ultramarine-wayfire-adjustment) |
+| [Ultramarine Labwc Adjustment](https://samwhelp.github.io/ultramarine-labwc-adjustment/) | [GitHub](https://github.com/samwhelp/ultramarine-labwc-adjustment) |
 
 
 
