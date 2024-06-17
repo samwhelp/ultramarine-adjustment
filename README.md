@@ -32,6 +32,7 @@
 | [Ultramarine Labwc Adjustment](https://samwhelp.github.io/ultramarine-labwc-adjustment/) | [GitHub](https://github.com/samwhelp/ultramarine-labwc-adjustment) |
 | [Ultramarine Hyprland Adjustment](https://samwhelp.github.io/ultramarine-hyprland-adjustment/) | [GitHub](https://github.com/samwhelp/ultramarine-hyprland-adjustment) |
 | [Ultramarine Sway Adjustment](https://samwhelp.github.io/ultramarine-sway-adjustment/) | [GitHub](https://github.com/samwhelp/ultramarine-sway-adjustment) |
+| [Ultramarine River Adjustment](https://samwhelp.github.io/ultramarine-river-adjustment/) | [GitHub](https://github.com/samwhelp/ultramarine-river-adjustment) |
 
 
 
