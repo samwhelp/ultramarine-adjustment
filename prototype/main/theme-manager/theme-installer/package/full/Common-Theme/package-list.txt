@@ -1,0 +1,37 @@
+
+
+##
+## # Theme
+##
+
+
+
+
+##
+## ## Package / Numix Theme
+##
+
+numix-gtk-theme
+numix-icon-theme
+numix-icon-theme-circle
+numix-icon-theme-square
+
+
+
+
+##
+## ## Package / Arc Theme
+##
+
+arc-kde
+arc-theme
+
+
+
+
+##
+## ## Package / Papirus Theme
+##
+
+papirus-icon-theme
+epapirus-icon-theme

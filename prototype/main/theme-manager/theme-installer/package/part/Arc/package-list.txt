@@ -1,0 +1,15 @@
+
+
+##
+## # Arc Theme
+##
+
+
+
+
+##
+## ## Package / Arc Theme
+##
+
+arc-kde
+arc-theme

@@ -1,0 +1,17 @@
+
+
+##
+## # Numix Theme
+##
+
+
+
+
+##
+## ## Package / Numix Theme
+##
+
+numix-gtk-theme
+numix-icon-theme
+numix-icon-theme-circle
+numix-icon-theme-square
