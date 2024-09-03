@@ -10,5 +10,5 @@ https://images.fyralabs.com/isos/ultramarine/40/ultramarine-kde-40-live-x86_64.i
 
 https://images.fyralabs.com/isos/ultramarine/40/ultramarine-flagship-40-live-x86_64.iso.sha256sum
 https://images.fyralabs.com/isos/ultramarine/40/ultramarine-gnome-40-live-x86_64.iso.sha256sum
-https://images.fyralabs.com/isos/ultramarine/40/ultramarine-xfce-40-live-x86_64.iso
+https://images.fyralabs.com/isos/ultramarine/40/ultramarine-xfce-40-live-x86_64.iso.sha256sum
 https://images.fyralabs.com/isos/ultramarine/40/ultramarine-kde-40-live-x86_64.iso.sha256sum
