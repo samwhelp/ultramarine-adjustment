@@ -1,0 +1,17 @@
+
+
+
+
+https://images.fyralabs.com/isos/ultramarine/43/ultramarine-xfce-43-live-anaconda-x86_64.iso
+https://images.fyralabs.com/isos/ultramarine/43/ultramarine-plasma-43-live-anaconda-x86_64.iso
+https://images.fyralabs.com/isos/ultramarine/43/ultramarine-budgie-43-live-anaconda-x86_64.iso
+https://images.fyralabs.com/isos/ultramarine/43/ultramarine-gnome-43-live-anaconda-x86_64.iso
+
+
+
+
+https://images.fyralabs.com/isos/ultramarine/43/ultramarine-xfce-43-live-anaconda-x86_64.iso.sha256sum
+https://images.fyralabs.com/isos/ultramarine/43/ultramarine-plasma-43-live-anaconda-x86_64.iso.sha256sum
+https://images.fyralabs.com/isos/ultramarine/43/ultramarine-budgie-43-live-anaconda-x86_64.iso.sha256sum
+https://images.fyralabs.com/isos/ultramarine/43/ultramarine-gnome-43-live-anaconda-x86_64.iso.sha256sum
+
