@@ -10,6 +10,7 @@
 | Link | GitHub |
 | ---- | ------ |
 | [Ultramarine Adjustment](https://samwhelp.github.io/ultramarine-adjustment/) | [GitHub](https://github.com/samwhelp/ultramarine-adjustment) |
+| [Ultramarine Note](https://samwhelp.github.io/note-about-ultramarine/) | [GitHub](https://github.com/samwhelp/note-about-ultramarine) |
 
 
 
