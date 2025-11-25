@@ -16,8 +16,20 @@
 
 ## Subject
 
-* [Ultramarine Respin](#ultramarine-respin)
 * [Script](#script)
+* [Ultramarine Respin](#ultramarine-respin)
+* [Link](#link)
+
+
+
+
+## Script
+
+| Script |
+| ------ |
+| [Ultramarine Config](https://github.com/samwhelp/ultramarine-adjustment/tree/main/prototype/main) |
+| [Tool Config](https://github.com/samwhelp/ultramarine-adjustment/tree/main/prototype/main/tool-config/part) |
+
 
 
 
@@ -43,8 +55,18 @@
 
 
 
-## Script
+## Link
 
-| Script |
-| ------ |
-| [Ultramarine Adjustment](https://github.com/samwhelp/ultramarine-adjustment/tree/main/prototype/main) |
+| Link | GitHub |
+| ---- | ------ |
+| [Fedora Adjustment](https://samwhelp.github.io/fedora-adjustment/) | [GitHub](https://github.com/samwhelp/fedora-adjustment) |
+| [Debian Adjustment](https://samwhelp.github.io/debian-adjustment/) | [GitHub](https://github.com/samwhelp/debian-adjustment) |
+| [Ubuntu Adjustment](https://samwhelp.github.io/ubutu-adjustment/) | [GitHub](https://github.com/samwhelp/ubutu-adjustment) |
+| [Archlinux Adjustment](https://samwhelp.github.io/archlinux-adjustment/) | [GitHub](https://github.com/samwhelp/archlinux-adjustment) |
+
+
+
+
+## Samwhelp
+
+* [GitHub](https://github.com/samwhelp)
