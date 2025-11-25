@@ -56,7 +56,7 @@ menuentry "Ultramarine 43 ISO / Budgie" --class fedora {
 
 
 menuentry "Ultramarine 43 ISO / Gnome Shell" --class fedora {
-	set iso_file="/opt/iso/ultramarine/latest/ultramarine-gnome.iso"
+	set iso_file="/opt/iso/ultramarine/latest/ultramarine-gnome-shell.iso"
 	search --set=iso_partition --no-floppy --file $iso_file
 	probe --set=iso_partition_uuid --fs-uuid $iso_partition
 	set img_dev="/dev/disk/by-uuid/$iso_partition_uuid"
