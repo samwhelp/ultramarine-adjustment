@@ -34,10 +34,10 @@
 | Ultramarine Respin | GitHub |
 | ------------------ | ------ |
 | [Ultramarine Xfce Adjustment](https://samwhelp.github.io/ultramarine-xfce-adjustment/) | [GitHub](https://github.com/samwhelp/ultramarine-xfce-adjustment) |
-| [Ultramarine Lxqt Adjustment](https://samwhelp.github.io/ultramarine-lxqt-adjustment/) | [GitHub](https://github.com/samwhelp/ultramarine-lxqt-adjustment) |
 | [Ultramarine Kde Plasma Adjustment](https://samwhelp.github.io/ultramarine-kde-plasma-adjustment/) | [GitHub](https://github.com/samwhelp/ultramarine-kde-plasma-adjustment) |
 | [Ultramarine Budgie Adjustment](https://samwhelp.github.io/ultramarine-budgie-adjustment/) | [GitHub](https://github.com/samwhelp/ultramarine-budgie-adjustment) |
 | [Ultramarine Gnome Shell Adjustment](https://samwhelp.github.io/ultramarine-gnome-shell-adjustment/) | [GitHub](https://github.com/samwhelp/ultramarine-gnome-shell-adjustment) |
+| [Ultramarine Lxqt Adjustment](https://samwhelp.github.io/ultramarine-lxqt-adjustment/) | [GitHub](https://github.com/samwhelp/ultramarine-lxqt-adjustment) |
 
 
 | Ultramarine Respin | GitHub |
