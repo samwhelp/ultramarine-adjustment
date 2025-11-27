@@ -2,6 +2,8 @@
 # Background
 
 
+
+
 ## File Path
 
 | File Path |
@@ -9,7 +11,7 @@
 | [/usr/share/backgrounds/default.jpg](./asset/overlay/usr/share/backgrounds/default.jpg) |
 | [/usr/share/backgrounds/default-login.jpg](./asset/overlay/usr/share/backgrounds/default-login.jpg) |
 | [/usr/share/backgrounds/default-grub.jpg](./asset/overlay/usr/share/backgrounds/default-grub.jpg) |
-| [/usr/share/backgrounds/next.jpg](./asset/overlay/usr/share/backgrounds/default.jpg) |
+| [/usr/share/backgrounds/next.jpg](./asset/overlay/usr/share/backgrounds/next.jpg) |
 
 
 
